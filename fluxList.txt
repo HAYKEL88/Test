@@ -1,4 +1,4 @@
-fluxList= {
+{
 "content":[
     {"id":"1", "name":"flux1", "source":"s1", "backends":[{"name":"backend1"}, {"name":"backend2"}], "synch_start_time":"10:00", "synch_end_time":"11:00", "duration_time":"3600", "global_status":"OK", "detailed_status":[{"synch_status":"OK"}, {"asynch_status":"KO"}]},
 	{"id":"2", "name":"flux2", "source":"s1", "backends":[{"name":"backend1"}, {"name":"backend2"}], "synch_start_time":"10:00", "synch_end_time":"11:00", "duration_time":"3600", "global_status":"OK", "detailed_status":[{"synch_status":"OK"}, {"asynch_status":"KO"}]},
